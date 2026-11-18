@@ -1,7 +1,12 @@
-import ../settings.scroll
-metaTags
-gazetteTheme
-gazetteHeader
+buildHtml
 title The Hawai'i Pub
-fullSnippets index
-gazetteFooter
+../settings.scroll
+homeButton /index.html
+editButton
+metaTags
+theme gazette
+printTitle
+/.gazette.css
+/.scroll.css
+printFullSnippets index
+../pageFooter.scroll

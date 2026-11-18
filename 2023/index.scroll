@@ -1,8 +1,12 @@
-import ../settings.scroll
-homeLink ../index.html
-metaTags
-gazetteTheme
-gazetteHeader
+buildHtml
 title The Hawai'i Pub - 2023
-snippets index
-gazetteFooter
+../settings.scroll
+homeButton /index.html
+editButton
+metaTags
+theme gazette
+printTitle
+/.gazette.css
+/.scroll.css
+printSnippets index
+../pageFooter.scroll

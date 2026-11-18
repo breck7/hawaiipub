@@ -1,7 +1,9 @@
 importOnly
 
 ## Have a great TODAY_NAME!
-author https://github.com/breck7 Breck Yunits - Editor
+authors Breck Yunits - Editor
+ https://github.com/breck7 Breck Yunits - Editor
+printAuthors
 
 endColumns
 
@@ -9,4 +11,4 @@ endColumns
  https://hawaii.pub/2023/TODAYS_DATE.html hawaii.pub/2023/TODAYS_DATE.html
 
 keyboardNav
-gazetteFooter
+../pageFooter.scroll

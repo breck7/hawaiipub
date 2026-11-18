@@ -1,8 +1,9 @@
 import header.scroll
 title Aloha Hawai'i
+printTitle
 date 12-13-2022
-groups stories index
-startColumns 2
+tags stories index
+thinColumns 2
 
 * _The Hawai'i Pub is a new public domain newspaper serving the people of Hawai'i._
 
@@ -21,7 +22,9 @@ endSnippet
 
 * Thank you and I look forward to serving the people of Hawai'i for many years to come.
 
-author https://github.com/breck7 John Breck Yunits
+authors John Breck Yunits
+ https://github.com/breck7 John Breck Yunits
+printAuthors
 
 quote
  Mine and publish the truth for the people.
@@ -29,4 +32,4 @@ quote
 
 endColumns
 keyboardNav
-gazetteFooter
+../pageFooter.scroll

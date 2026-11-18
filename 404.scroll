@@ -1,15 +1,22 @@
-import settings.scroll
-metaTags
-gazetteTheme
-gazetteHeader
-permalink 404.html
+buildHtml
 title Page not found
-startColumns 1
+settings.scroll
+metaTags
+theme gazette
+homeButton /index.html
+editButton
+permalink 404.html
+container 800px
+printTitle
+/.gazette.css
+/.scroll.css
 
 # Sorry, the url you requested was not found.
 
 * If you think there's a bug on our site, please open an issue to let us know.
  https://github.com/breck7/hawaii.pub/issues open an issue
+
+helpfulNotFound /sitemap.txt
 
 code
   ___  ___  _ __ _ __ _   _ 
@@ -19,4 +26,4 @@ code
                        __/ |
                       |___/                                 
 
-gazetteFooter
+pageFooter.scroll

@@ -1,7 +1,10 @@
 importOnly
 import ../settings.scroll
 import ../style.scroll
+buildHtml
 metaTags
-gazetteTheme
-gazetteHeader
-homeLink ../index.html
+theme gazette
+homeButton /index.html
+editButton
+/.gazette.css
+/.scroll.css
