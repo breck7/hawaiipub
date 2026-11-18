@@ -3,7 +3,7 @@
   "description": "Da Hawai'i Pub is a public domain newspaper serving the people of Hawai'i",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/breck7/hawaii.pub.git"
+    "url": "git+https://github.com/breck7/hawaiipub.git"
   },
   "scripts": {
     "test": "scroll list | scroll test",

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="ogTitle ogDesc">
  <title id="ogTitle">Da Hawai'i Pub</title>
- <desc id="ogDesc">The print at home daily newspaper for residents of Honolulu, Hawai'i.</desc>
+ <desc id="ogDesc">Irregular newspaper for residents of Oahu.</desc>
  <rect width="1200" height="630" fill="#f4f4f4"/>
  <rect x="48" y="48" width="1104" height="534" fill="none" stroke="#141414" stroke-width="2"/>
  <rect x="56" y="56" width="1088" height="518" fill="none" stroke="#c4a35a" stroke-width="1"/>
@@ -23,13 +23,13 @@
  <line x1="680" y1="210" x2="1040" y2="210" stroke="#141414" stroke-width="1"/>
  <line x1="680" y1="214" x2="1040" y2="214" stroke="#141414" stroke-width="2.5"/>
 
- <text x="600" y="360" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="108" font-weight="400" fill="#141414">The Hawai‘i Pub</text>
+ <text x="600" y="360" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="108" font-weight="400" fill="#141414">Da Hawai‘i Pub</text>
 
  <line x1="200" y1="400" x2="1000" y2="400" stroke="#141414" stroke-width="2.5"/>
  <line x1="200" y1="406" x2="1000" y2="406" stroke="#141414" stroke-width="1"/>
 
- <text x="600" y="470" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="28" font-style="italic" fill="#141414">The print at home daily newspaper</text>
- <text x="600" y="510" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="28" font-style="italic" fill="#141414">for residents of Honolulu, Hawai‘i.</text>
+ <text x="600" y="470" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="28" font-style="italic" fill="#141414">Irregular newspaper</text>
+ <text x="600" y="510" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="28" font-style="italic" fill="#141414">for residents of Oahu.</text>
 
- <text x="600" y="560" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="22" letter-spacing="4" fill="#6e6e6e">hawaii.pub</text>
+ <text x="600" y="560" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="22" letter-spacing="4" fill="#6e6e6e">hawaii.breck.lol</text>
 </svg>
