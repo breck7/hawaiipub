@@ -11,7 +11,7 @@
     "open": "open index.html"
   },
   "author": "Breck Yunits et al",
-  "homepage": "https://hawaii.pub",
+  "homepage": "https://hawaii.breck.lol",
   "dependencies": {
     "scroll-cli": "https://github.com/breck7/scroll/archive/refs/heads/main.tar.gz"
   }
