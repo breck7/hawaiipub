@@ -1,6 +1,12 @@
+// Aloha!
+// This is source code for Da Hawai'i Pub.
+// Mahalo, Aloha and A Hui Hou!
+// - Breck
+
 buildHtml
 title The Hawai'i Pub
 settings.scroll
+permalink index.html
 metaTags
 theme gazette
 homeButton /index.html

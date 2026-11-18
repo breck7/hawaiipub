@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="ogTitle ogDesc">
+ <title id="ogTitle">The Hawai'i Pub</title>
+ <desc id="ogDesc">The print at home daily newspaper for residents of Honolulu, Hawai'i.</desc>
+ <rect width="1200" height="630" fill="#f4f4f4"/>
+ <rect x="48" y="48" width="1104" height="534" fill="none" stroke="#141414" stroke-width="2"/>
+ <rect x="56" y="56" width="1088" height="518" fill="none" stroke="#c4a35a" stroke-width="1"/>
+
+ <text x="600" y="168" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="18" font-weight="700" letter-spacing="10" fill="#c4a35a">HONOLULU, HAWAI‘I</text>
+
+ <line x1="160" y1="210" x2="520" y2="210" stroke="#141414" stroke-width="1"/>
+ <line x1="160" y1="214" x2="520" y2="214" stroke="#141414" stroke-width="2.5"/>
+ <g transform="translate(600 212)">
+  <g fill="#c4a35a">
+    <ellipse cx="0" cy="-11" rx="6.2" ry="12" />
+    <ellipse cx="0" cy="-11" rx="6.2" ry="12" transform="rotate(72)"/>
+    <ellipse cx="0" cy="-11" rx="6.2" ry="12" transform="rotate(144)"/>
+    <ellipse cx="0" cy="-11" rx="6.2" ry="12" transform="rotate(216)"/>
+    <ellipse cx="0" cy="-11" rx="6.2" ry="12" transform="rotate(288)"/>
+    <circle cx="0" cy="0" r="3.4" fill="#f4f4f4"/>
+    <circle cx="0" cy="0" r="2" fill="#c4a35a"/>
+  </g>
+</g>
+ <line x1="680" y1="210" x2="1040" y2="210" stroke="#141414" stroke-width="1"/>
+ <line x1="680" y1="214" x2="1040" y2="214" stroke="#141414" stroke-width="2.5"/>
+
+ <text x="600" y="360" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="108" font-weight="400" fill="#141414">The Hawai‘i Pub</text>
+
+ <line x1="200" y1="400" x2="1000" y2="400" stroke="#141414" stroke-width="2.5"/>
+ <line x1="200" y1="406" x2="1000" y2="406" stroke="#141414" stroke-width="1"/>
+
+ <text x="600" y="470" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="28" font-style="italic" fill="#141414">The print at home daily newspaper</text>
+ <text x="600" y="510" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="28" font-style="italic" fill="#141414">for residents of Honolulu, Hawai‘i.</text>
+
+ <text x="600" y="560" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="22" letter-spacing="4" fill="#6e6e6e">hawaii.pub</text>
+</svg>
