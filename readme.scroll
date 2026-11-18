@@ -4,7 +4,7 @@
 // - Breck
 
 buildHtml
-title The Hawai'i Pub
+title Da Hawai'i Pub
 settings.scroll
 permalink index.html
 metaTags

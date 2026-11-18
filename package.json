@@ -1,6 +1,6 @@
 {
-  "name": "The Hawai'i Pub",
-  "description": "The Hawai'i Pub is a public domain newspaper serving the people of Hawai'i",
+  "name": "Da Hawai'i Pub",
+  "description": "Da Hawai'i Pub is a public domain newspaper serving the people of Hawai'i",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/breck7/hawaii.pub.git"
